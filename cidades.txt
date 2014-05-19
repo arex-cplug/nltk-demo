@@ -1,0 +1,537 @@
+cidade
+São Paulo
+Belo Horizonte
+Rio de Janeiro
+Curitiba
+Salvador
+Porto Alegre
+Recife
+Campinas
+Brasília
+São Bernardo do Campo
+Santos
+Maceió
+Goiânia
+Fortaleza
+Florianópolis
+Holambra
+Fernando de Noronha
+Valinhos
+Uberlândia
+Sorocaba
+São José dos Campos
+Santo André
+Ribeirão Preto
+Porto Velho
+Passo Fundo
+Parnaíba
+Osasco
+Niterói
+Nilópolis
+Natal
+Mogi das Cruzes
+Manaus
+Jundiaí
+Joinville
+Diadema
+Catanduva
+Blumenau
+Itapoá
+Volta Redonda
+Vitória
+Vinhedo
+Vinhático
+Vila Velha
+Vilar dos Teles
+Viamão
+Várzea Grande
+Uberaba
+Ubatuba
+Turmalina
+Tubarão
+Tremembé
+Teresópolis
+Teresina
+Taubaté
+Tatuí
+Taboão da Serra
+Suzano
+Sete Lagoas
+Sertãozinho
+Serra
+Serra Negra
+São Vicente
+São Sebastião
+São Luís
+São Leopoldo
+São José dos Pinhais
+São José do Rio Preto
+São João de Meriti
+São João del Rei
+São Gonçalo
+São Francisco Xavier
+São Carlos
+São Caetano do Sul
+Santo Antônio do Pinhal
+Santana de Parnaíba
+Santa Maria
+Santa Maria do Herval
+Santa Bárbara d'Oeste
+Salto
+Rosário do Sul
+Rondonópolis
+Queimados
+Presidente Prudente
+Praia Grande
+Porto Seguro
+Pôrto das Galinhas
+Ponta Grossa
+Poços de Caldas
+Pirassununga
+Piracicaba
+Petrópolis
+Petrolina
+Peruíbe
+Penedo
+Pelotas
+Paulista
+Parnamirim
+Paranaguá
+Palmas
+Palhoça
+Olinda
+Novo Hamburgo
+Nova Iguaçu
+Nova Friburgo
+Monte Verde
+Mogi-Guaçu
+Mogi das Cruzes
+Mauá
+Matinhos
+Maringá
+Marília
+Macaé
+Londrina
+Limeira
+Jussara
+Juiz de Fora
+João Pessoa
+João Monlevade
+Itu
+Itatiba
+Itajaí
+Itacaré
+Itabuna
+Ipatinga
+Indaiatuba
+Indaial
+Imbituba
+Ilhabela
+Iguape
+Ibiúna
+Hortolândia
+Guarulhos
+Guarujá
+Guaratuba
+Guaratinguetá
+Guarapari
+Guará
+Gramado
+Governador Valadares
+Garanhuns
+Francisco Morato
+Franca
+Foz do Iguaçu
+Feira de Santana
+Extrema
+Duque de Caxias
+Divinópolis
+Cuiabá
+Criciúma
+Cotia
+Coronel Fabriciano
+Contagem
+Conselheiro Lafaiete
+Chapecó
+Caxias do Sul
+Cascavel
+Caruaru
+Cariacica
+Carapicuíba
+Caraguatatuba
+Canoas
+Campos do Jordão
+Campos
+Campo Grande
+Campina Grande
+Camboriú
+Cambé
+Cáceres
+Cabo Frio
+Bombinhas
+Boituva
+Birigui
+Betim
+Bertioga
+Bento Gonçalves
+Belém
+Bauru
+Barueri
+Barretos
+Barra Mansa
+Balneário de Camboriú
+Atibaia
+Assis
+Armação dos Búzios
+Araxá
+Araraquara
+Araçatuba
+Araçariguama
+Aracaju
+Apucarana
+Aparecida de Goiás
+Angra dos Reis
+Anápolis
+Americana
+Águas de Lindóia
+Vargem Grande Paulista
+Pinhais
+Paraty
+Lauro de Freitas
+Jaboatão dos Guararapes
+Guabiruba
+Assis Chateaubriand
+Goioerê
+Águas de Santa Bárbara
+Bacabeira
+Teixeira de Freitas
+Balneario Gaivota
+Xique-Xique
+Xaxim
+Xapuri
+Xanxerê
+Xambioá
+Wenceslau Braz
+Wanderlândia
+Votorantim
+Vitorino Freire
+Vitória do Mearim
+Vitória de Santo Antão
+Vitória da Conquista
+Viseu
+Visconde do Rio Branco
+Viradouro
+Vilhena
+Vigia
+Videira
+Viçosa
+Viçosa
+Viçosa do Ceará
+Vicência
+Vianópolis
+Viana
+Viana
+Vespasiano
+Veranópolis
+Vera Cruz
+Venâncio Aires
+Vazante
+Vassouras
+Varzelândia
+Várzea Paulista
+Várzea da Palma
+Várzea Alegre
+Varjota
+Varginha
+Vargem Grande
+Vargem Grande do Sul
+Vargem Alta
+Valparaíso
+Valente
+Valença
+Valença
+Valença do Piauí
+Vacaria
+Utinga
+Urussanga
+Urupês
+Uruguaiana
+Urucurituba
+Uruçuí
+Uruçuca
+Urucará
+Uruburetama
+Uruana
+Uruaçu
+Urbano Santos
+Upanema
+União
+União dos Palmares
+União da Victoria
+Una
+Unaí
+Umuarama
+Umirim
+Umbuzeiro
+Umbuzeiro
+Umbaúba
+Umarizal
+Uiraúna
+Ubá
+Ubatã
+Ubajara
+Ubaitaba
+Ubaíra
+Uauá
+Uarini
+Tutóia
+Turiaçu
+Tupi Paulista
+Tupã
+Tupanciretã
+Tupanatinga
+Tupaciguara
+Tuntum
+Tucuruí
+Tucumã
+Tucano
+Triunfo
+Triunfo
+Trindade
+Trindade
+Três Rios
+Três Pontas
+Três Passos
+Três Lagoas
+Três de Maio
+Três Coroas
+Três Corações
+Três Barras
+Tremedal
+Tramandaí
+Trairi
+Traipu
+Touros
+Tôrres
+Toritama
+Tonantins
+Tomé-Açu
+Tomar do Geru
+Toledo
+Tocantins
+Tocantinópolis
+Tobias Barreto
+Tiradentes
+Timóteo
+Timon
+Timbó
+Timbiras
+Timbaúba
+Tijucas
+Tietê
+Tibagi
+Tianguá
+Teutônia
+Terra Santa
+Terra Roxa
+Terra Rica
+Terra Nova
+Terra Boa
+Terenos
+Teófilo Otoni
+Teodoro Sampaio
+Telêmaco Borba
+Teixeira
+Tefé
+Tavares
+Tauá
+Tarumã
+Tarauacá
+Taquarituba
+Taquaritinga
+Taquaritinga do Norte
+Taquari
+Taquara
+Taquarana
+Tapiramutá
+Tapes
+Taperoá
+Taperoá
+Tapejara
+Tapejara
+Tapauá
+Tanhaçu
+Tanguá
+Tangará
+Tanabi
+Tamboril
+Tambaú
+Tamandaré
+Taipu
+Taiobeiras
+Taguatinga
+Tabuleiro do Norte
+Tabira
+Tabatinga
+Tabatinga
+Surubim
+Sumé
+Sumaré
+Sousa
+Soure
+Sombrio
+Soledade
+Soledade
+Solânea
+Socorro
+Sobral
+Sobradinho
+Sobradinho
+Sítio Novo do Tocantins
+Simplício Mendes
+Simões
+Simão Dias
+Silvânia
+Silva Jardim
+Sidrolândia
+Siderópolis
+Severínia
+Severiano Melo
+Sertanópolis
+Sertânia
+Sêrro
+Serrinha
+Serra Talhada
+Serrana
+Serra Branca
+Seropédica
+Sento Sé
+Senhor do Bonfim
+Sengés
+Sena Madureira
+Senador Pompeu
+Senador José Porfírio
+Senador Guiomard
+Senador Canedo
+Seara
+Seabra
+Schroeder
+Saubara
+Satuba
+Sarzedo
+Sarandi
+Sarandi
+Saquarema
+Sapucaia
+Sapucaia
+Sapiranga
+Sapé
+São Tomé
+São Simão
+São Sepé
+São Sebastião
+São Sebastião do Passé
+São Sebastião do Paraíso
+São Sebastião do Caí
+São Roque
+São Raimundo Nonato
+São Raimundo das Mangabeiras
+São Pedro
+São Pedro do Sul
+São Pedro do Piauí
+São Pedro da Aldeia
+São Paulo do Potengi
+São Paulo de Olivença
+São Miguel
+São Miguel do Tapuio
+São Miguel dos Campos
+São Miguel do Oeste
+São Miguel do Iguaçu
+São Miguel do Guamá
+São Miguel do Araguaia
+São Mateus
+São Mateus do Sul
+São Mateus do Maranhão
+São Marcos
+São Manuel
+São Luiz Gonzaga
+São Luís do Quitunde
+São Luís de Montes Belos
+São Lourenço
+São Lourenço do Sul
+São Lourenço do Oeste
+São Lourenço da Serra
+São Lourenço da Mata
+São José
+São José do Rio Pardo
+São José do Egito
+São José do Campestre
+São José do Calçado
+São José do Belmonte
+São José de Ribamar
+São José de Piranhas
+São José de Mipibu
+São José da Tapera
+São José da Laje
+São José da Coroa Grande
+São Joaquim
+São Joaquim do Monte
+São Joaquim de Bicas
+São Joaquim da Barra
+São João
+São João Nepomuceno
+São João Evangelista
+São João dos Patos
+São João do Piauí
+São João do Paraíso
+São João de Pirabas
+São João da Ponte
+São João da Boa Vista
+São João da Barra
+São João Batista
+São João Batista
+São Jerônimo
+São Gotardo
+São Gonçalo dos Campos
+São Gonçalo do Sapucaí
+São Gonçalo do Amarante
+São Gonçalo do Amarante
+São Geraldo do Araguaia
+São Gabriel
+São Gabriel da Cachoeira
+São Francisco
+São Francisco do Sul
+São Francisco do Conde
+São Francisco de Paula
+São Francisco de Assis
+São Fidélis
+São Félix do Xingu
+São Felipe
+São Domingos
+São Domingos do Prata
+São Domingos do Maranhão
+São Desidério
+São Cristóvão
+São Caitano
+São Caetano de Odivelas
+São Borja
+São Bernardo
+São Bento
+São Bento
+São Bento do Una
+São Bento do Sul
+São Benedito do Rio Prêto
+Santos Dumont
+Santo Estêvão
+Santo Augusto
+Santo Antônio
+Santo Antônio do Tauá
+Santo Antônio do Sudoeste
+Santo Antônio do Monte
+Santo Antônio do Leverger
+Santo Antônio do Içá
+Santo Antônio do Amparo
+Santo Antônio de Posse
+Santo Antônio de Pádua
+Santo Antônio de Jesus
+Santo Antônio da Platina

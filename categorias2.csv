@@ -1,0 +1,431 @@
+nome,busca_pt
+"EstÃ©tica e Bem Estar","estetica,beleza"
+"Medicina EstÃ©tica","medicina,estetica,plastica,cirurgia,operacao"
+"ClÃ­nica de EstÃ©tica","clinica,estetica,peeling,bronzeamento,estria,flacidez,gordura,limpeza,pele,hidratacao,drenagem,linfatica,depilacao"
+"SalÃ£o de Beleza / Barbearia","salÃ£o,salao,beleza,cabelereiro,cabeleireiro,cabelo,cortes,unhas,corte,coloracao,maquiagem,enteado,permanente,chapinha"
+"Festas e Eventos",festas
+"Buffet ","buffet,eventos,salao,festas"
+"Buffet Infantil","buffet,infantil,eventos,salao,festa"
+Brinde,"lembrancinhas,casamento,festa,batizado"
+"Ãudio / Foto / VÃ­deo","fotografo,fotografia,book,casamentos,fotos,retratos"
+"Animais de EstimaÃ§Ã£o",animais
+"Pet Shop","pet,shop,veterinario,clinica,veterinaria,banho,tosa,cachorros,gatos,peixes"
+"Hotel / Spa Animal","spa,hotel,animal,cachorro,gato"
+VeterinÃ¡rio,"veterinario,clinica,veterinaria,consultas,animais,cachorros,gatos,tosa,banho"
+Adestramento,"adestramento,treinamento,cachorros,gatos,animais,adestrador"
+Convite,"convites,casamentos,"
+DecoraÃ§Ã£o,"decoracao,casamento,festas"
+"Vestido / Traje Social","vestidos,vestido,noiva,smoking,aluguel,locaÃ§Ã£o,roupas,trajes"
+"Entretenimento / Animador",entretenimento
+Massagem,"massagem,relaxamento,shiatsu,massagista"
+"Tatuagem / Piercing","tatuagem,piercing,alargador,tatoo"
+Motel,motel
+Restaurante,"restaurante,comida,almoco,janta"
+AlemÃ£o,
+Ãrabe,arabe
+ArmÃªnio,"armenio,armenia"
+Brasileiro,"brasileiro,brasileira,brasil,feijoada"
+Churrascaria,"churrascaria,churrasco,picanha,rodizio"
+ChinÃªs,"chinesa,chines,china,yakissoba"
+Coreano,"koreano,coreano,coreia"
+ContemporÃ¢neo,"contemporanea,cozinha,moderna"
+Escandinavo,"escandinavia,escandinava"
+Espanhol,"espanhol,espanha,espanhola"
+FrancÃªs,"franca,francesa,frances"
+Grego,"grego,grecia,grega"
+Indiano,"indiano,india"
+Italiano,
+JaponÃªs,"japones,oriental,sushi,sashimi,tempura,yakissoba,temakeria,temaki"
+TailandÃªs,
+Argentino,"argentinos,argentina"
+Marroquino,"marrocos,marroquino"
+Mexicano,"mexicano,mexico"
+"Peixe / Frutos do Mar","peixes,frutos do mar, camarao,paella,pescado,moqueca"
+Peruano,"peruano,peru"
+Pizzaria,
+PortuguÃªs,"portugueses,portugues,bacalhoada,bacalhau,bolinho,caldo verde"
+SuÃ­Ã§o,
+"Bares e Botecos","bares,bar,happy,hour,chopp,cerveja,buteco,boteco,barzinho,chopperia,cervejaria"
+Sertaneja,"sertanejo,country"
+GLS,"balada,gay,gls,glt,boates,discotecas,disco"
+Samba,"samba,salsa,merengue,tango,pagode"
+"Pop Rock","pop,rock,musica,vivo"
+EletrÃŽnica,"eletronica,eletro,tecno,techno,rave,"
+Black,"black,music"
+Lojas,"lojas,compras"
+"CosmÃ©tico / Perfumaria","cosmeticos,perfumaria,perfume,maquiagem,cremes,hidratantes,masculino,feminino"
+Joalheria,"bijouterias,brincos,colares,aneis,anel,pingente,joalheia,joias"
+"MÃ³vel / DecoraÃ§Ã£o","moveis,decoracao,armario"
+Eletro-EletrÃŽnicos,"eletrodomesticos, eletronicos"
+"Artigos Esportivos","artigos,esportivos,esportes"
+Brinquedos,"brinquedos,brinquedo,carrinho,boneca,barbie,games,jogos,videogame,games,bonecos"
+CalÃ§ados,"calcados,tenis,botas,coturno,sapatos,sandalias,sandalhas,chinelo,tamanco"
+"Cama, Mesa e Banho","cama,mesa,banho,toalha,lencol,travesseiro"
+FarmÃ¡cia,"farmacia,remedios,manipulacao,drogaria"
+Livraria,"livros,livraria"
+"Loja de Departamentos",departamento
+"Utilidades DomÃ©sticas","cozinha, moveis, equipamentos"
+"Roupa Ãntima","babydoll,calcinha,lingerie,cueca,meias,pijama,meiacalca,sutia,soutien,espartilho"
+"Roupa Esportiva / Praia","biquini,bikini,sunga,maio"
+Ãtica,"otica,optica,oculos,lentes,contato"
+Papelaria,"papelarias,papelaria,material,escritorio,escolar"
+Tabacaria,"tabaco,cigarro,charuto,cigarrilha,cachimbo"
+"Roupa Feminina","roupas,vestuario,feminino,mulher,calcinha,baby look,vestidos,saias,biquinis,bikini,batas,lingeries"
+"Roupa Masculina","roupa,masculino,masculina,vestuario,terno,gravata,cueca,camisa,camiseta,calca,social"
+"Roupa Infantil","vestuario,roupas,infantil,calca,blusa,camiseta,bermuda"
+VestuÃ¡rio,Roupas
+Supermercado,"mercado,super,mercado,supremercado,mercadinho"
+Celular,"celulares,celular,telefone"
+"Entretenimento e Lazer",entretenimento
+Cinema,"cinema,filmes"
+Teatro,"teatros,espetÃ¡culo,teatro"
+"Casa de Shows","shows,espetÃ¡culos,casa"
+"Shopping Center","shopping,galeria,galerias"
+Esportes,esportes
+Academia,"academia,ginastica,gym"
+"ArmazÃ©ns e Mercados",
+"CafÃ© / Coffee Shop","cafÃ©, chÃ¡"
+Doceria,"doceria,doces,bolos,sobremesas,chocolate,doÃ§arias"
+Padaria,"padaria,panificadora"
+"Sorveteria / Frozen Yogurt","sorveteria,sorvetes,gellato,sorbet, yogurt"
+Adega,"vinhos,enoteca,enologia"
+Feiras,"feiras,feira,livre"
+ServiÃ§os,
+"ServiÃ§os de Limpeza","limpeza,faxina,faxineira"
+"Design de Interiores","decoradora,decoracao,decorador"
+Chaveiros,"chaveiros,chaveiro,chaves"
+"SeguranÃ§a / ComunicaÃ§Ã£o / AutomaÃ§Ã£o","automacao,residencial,casas"
+Empreiteira,"construtoras,construtora,empreiteiro"
+Sapateiro,"sapateiro,sapataria"
+Lavanderias,"lavanderia,lavagem,seco"
+CartÃ³rios,"cartÃ³rios,cartorio"
+Auto-escolas,"auto-escola,auto,escola,curso,direÃ§Ã£o"
+Correios,"correios,sedex"
+"Lan Houses","informÃ¡tica,lanhouse,lan,house,computadores,manutenÃ§Ã£o"
+AÃ§ougue,"aÃ§ougue,aÃ§ogue,carnes,aÃ§ogueiro,aÃ§ougueiro,casa"
+Floricultura,"flores,floricultura,arranjos,buques,rosas"
+GrÃ¡ficas,"grÃ¡fica,copiadora,serox,graficas,copiadoras"
+Futebol,futebol
+TÃªnis,"tenis,quadras"
+Squash,"squash,quadras"
+NataÃ§Ã£o,"natação,piscina"
+Ciclismo,"ciclismo,bicicleta"
+Golfe,golfe
+Fliperama,"games,jogos"
+Kart,kart
+Paintball,paintball
+SaÃºde,"saude,mÃ©dico,medicina"
+Dentistas,dentistas
+FonoaudiÃ³logos,"fonoaudiologo,fono"
+Fisioterapeuta,"fisioterapia,fisioterapeuta"
+PsicÃ³logos,"psciolooco,terapeuta,terapia"
+Nutricionistas,nutricionista
+"Hospitais e Maternidades","hospital,hospitais,clinicas"
+LaboratÃ³rios,"laboratorios,exames,exame"
+Terapeutas,"terapia,ocupacional,terapeuta"
+"Casas de Repouso","Casa,Repouso, terceira idade, idosos"
+Spa,"spa,massagem"
+EquitaÃ§Ã£o,equitacao
+Surf,surf
+"Artes Marciais","artes,marciais,lutas,luta,academia"
+DanÃ§a,danÃ§a
+Museu,"museus,museu,galerias,galeria,arte"
+Advogados,"advogados,advocagia,advogada"
+Contadores,"contadores,contador,contabilidade"
+"Sex shops","sexshop,sex,shop,sexo"
+Videolocadoras,"locadora,vÃ­deo-locadora,video,filmes"
+VeÃ­culos,"carros,carro"
+"Posto de Gasolina","posto,gasolina,postos"
+ConcessionÃ¡rias,"concessionaria,carros,carro"
+MecÃ¢nica,"oficina, mecÃ¢nico, martelinho"
+"Auto PeÃ§as","auto-pecas,automoveis,pecas,carros"
+"Pneus, Alinhamento e Balanceamento","pneus,alinhamento,balanceamento,cambagem"
+Guincho,"guincho,guinchos"
+Som,"som,automotivo,caixas,acusticas,modulo,amplificador,alto-falante,alto,falante,player"
+"Lava RÃ¡pido","lava,rapido,lava-rapido"
+"Viagens e Turismo","viagem,viagens"
+Hotel,"hotel,hoteis"
+Pousada,pousadas
+"Locadora de VeÃ­culos","aluguel,carros,veÃ­culos,locadora,automoveis,automovel"
+"AgÃªncia de Turismo","agencia,turismo,viagens,viagem"
+Albergue,"albergue,hostel"
+EducaÃ§Ã£o,"educacao,escola"
+Escola,"colegio,escolas"
+"Faculdades e Universidades","faculdade,universidade"
+"Escola de Idiomas","escola,idiomas,linguas"
+Cursinhos,"cursos,preparatorios"
+"Curso Profissionalizante","cursos,profissionalizantes"
+Pesca,"pesca,pescaria,peixes"
+Mergulho,mergulho
+Boliche,boliche
+Tuning,tuning
+"Esportes Radicais","esportes,radicais"
+Blindagem,"blindagem,blindado"
+InformÃ¡tica,"informatica,computadores,acessorios,notebooks"
+Outlet,"outlets,ponta de estoque,ponta,estoque"
+Resort,resort
+"ConstruÃ§Ã£o e Reformas","construcao,casa"
+"ServiÃ§os PÃºblicos","servicos,publicos"
+ImobiliÃ¡ria,"imoveis,imovel"
+"Telecom e Energia","telecomunicaÃ§Ãµes, telecomunicacao, energia, luz, telefone, telefonia"
+Igreja,"religiao,igrejas"
+Motoboys,logistica
+FÃ¡brica,
+"Passeador de CÃ£es","dogwalker,passeador,caes,cachorrodog,walker"
+"Vidro Automotivo",vidros
+"Lojas de Motocicletas","concessionaria,motos"
+Estacionamentos,"estacionamentos,estacionamento"
+"Buffet e Quilo","quilo,kilo"
+"Clube de ComÃ©dia","stand up,comedia, stand,up,standup"
+"Jazz / Blues","jazz,blues"
+KaraokÃª,karaoke
+Sinuca,"bilhas,sinuca,mesa,snooker,bar"
+"Ar Livre","turismo,pontos,turisticos"
+Africano,"africano,africa"
+Americano,Americano
+AsiÃ¡tico,"AsiÃ¡ticos - FusÃ£o"
+IndonÃ©sio,indonesia
+MediterrÃ¢neo,MediterrÃ¢neo
+Russo,"russo,rossia"
+"Vegetariano / Vegano","vegetariano,vegetais,veggan"
+Clubes,"Clubes, esporte, "
+Parque,Parques
+Pub,Pubs
+Tela,"Alambrados,Telas"
+ClimatizaÃ§Ã£o,"aquecedor,aquecimento"
+"Banheiro / LavatÃ³rio","Banheiras,jacuzzi,sauna"
+CaÃ§amba,"cacamba,entulho"
+Jardinagem,piscina
+"DedetizaÃ§Ã£o - DescupinizaÃ§Ã£o","dedetizacao,pragas,dedetizador,baratas"
+"Desentupidora e Encanadores","desentupidora,encanamento,encanador"
+"Gesso / Dry Wall",divisorias
+"ElÃ©trica / IluminaÃ§Ã£o",eletrica
+"Materiais de ConstruÃ§Ã£o",escadas
+"Porta / Janela  / Persiana","esquadrias,portas,janelas"
+"Ferramentas / Ferragem",ferramentas
+HidrÃ¡ulica,hidraulica
+Marcenaria,"marcenaria,marceneiro"
+Marmoraria,"marmoraria,marmore"
+"Piso / Revestimento","azulejos,pisos"
+Serralheiro,"serralheria,serralheiro,portoes,portao,porta"
+Pintor,"pintores,tintas"
+"Toldo / Telha",toldos
+VidraÃ§aria,"vidros,vidro,vidracaria"
+Casa,"moveis,casa,estantes,movel"
+EscritÃ³rio,"movel,escritorio,moveis,mesas"
+Lanchonete,"Lanchonete, Hamburger, burger, sanduÃ­che,milkshake, shake"
+Bancos,"bancos,banco"
+"Corretores de Seguros","corretor,seguro,corretores,seguradora"
+Financeiras,"financas,seguros,financeiras"
+Praia,"praias,praia,mar"
+"Suco Natural","sucos,frutas"
+Salgados,"salgados,salgadinhos,coxinha,empada"
+Despachantes,Despachante
+Alfaiate,"Costura,Alfaiate"
+BrechÃ³,"brecho,roupas,usadas"
+LotÃ©ricas,"lotÃ©rica,loteria,casas,lotericas"
+Empregos,"empregos,agencia,rh,trabalho"
+"Delegacias de PolÃ­cia","delegacia,polÃ­cia"
+TapeÃ§aria,"sofa, estofado,tapeÃ§aria,tapeteiros,tapetes"
+"Distribuidora de Ãgua","agua, distribuidor, "
+"FunerÃ¡rias e CemitÃ©rios","funeral, funerarias, enterro, "
+"Banca de Jornal","Banca, Jornal, Revistas"
+"Auto ElÃ©tricas","auto-elÃ©tricas,auto,elÃ©trica,eletrico,automÃ³veis,carros,carro"
+"Moto PeÃ§as","moto-peÃ§as,peÃ§as,motos,acessÃ³rios"
+Acupunturistas,acupuntura
+Oncologista,"Medicos, Cancerologia, oncologia"
+Cardiologista,"Medicos, Cardiologia, cardiologista"
+"Pontos de TÃ¡xis","taxi,pontos,taxista"
+Pediatra,"Medicos - Pediatria"
+"CirurgiÃµes PlÃ¡sticos","cirurgia plastica,cirurgiao Plastico"
+Dermatologista,"Medicos - Dermatologia"
+Endocrinologistas,"Medicos - Endocrinologia"
+Geriatra,"Medicos - Geriatria"
+Ginecologista,"Medicos - Ginecologia e Obstetricia"
+Oftalmologista,"Medicos - Oftalmologia"
+Ortopedista,"Medicos - Ortopedia"
+Urologista,"Medicos - Urologia"
+Otorrinolaringologista,"Medicos - Otorrinolaringologia"
+Psiquiatra,"Medicos - Psiquiatria"
+Neurologista,"Medicos - Neurologia"
+Sindicatos,Sindicatos
+Hortifruti,"Hortifruti,horti,fruti,feiras,horti-fruti,frutas,legumes"
+"MÃ©dico do Trabalho","Medicos - Trabalho"
+Prefeituras,"prefeitura,secretaria,publica"
+"FÃ³rum / Tribunal","tribunais,tribunal,justiÃ§a,regional"
+CÃ¢mara,"camara,publica"
+Pedreiro,"Empreiteiros e Pedreiros"
+Transportadoras,"Transportadoras "
+Escoteiro,"escoteiros,escotismo,grupo"
+"Consulado / Embaixada",Consulados
+"Curso de InformÃ¡tica","cursos,informatica,computadores"
+Aeroportos,"Aeroportos,Aeroclubes"
+Camping,"Camping,acampamentos"
+"CDs & DVDs","musica,cd,dvd,cds,dvds,discos"
+Costureiras,"Costureiras, costuras, costura, atelier, barras, botao, ziper, ajustes, roupa, corte"
+Tradutores,"Tradutores, traducao, "
+"EstaÃ§Ãµes de MetrÃŽ",Metros
+Creche,Creches
+ColchÃµes,"colchoes,colchao"
+FrigorÃ­fico,frigorifico
+Bibliotecas,NULL
+Mercearia,Mercearia
+Peixaria,Peixaria
+"Baladas e Boates","baladas,boates"
+Congelados,"congelados,salgadinhos"
+"Suplemento Alimentar e Produtos Naturais","suplementos,alimentares,whey,aminoacido,dextrose"
+"CemitÃ©rio de Azulejos","cemiterio,azulejos,ceramica,pisos"
+"Escola de MÃºsica","escola,musica,guitarra,violao"
+Sebo,"sebos,livros,livraria"
+"Fogos de ArtifÃ­cio","fogos,artificio,pirotecnico,bombas"
+"Loja de Tratores","tratores,trator"
+"Marido de Aluguel","marido,aluguel"
+"Ferro Velho","ferro,velho,ferro-velho"
+Letreiro,"Letreiros,luminosos"
+Psicoterapeuta,psicoterapeuta
+"Personal Trainer","personal trainer"
+AquÃ¡rio,aquario
+PatinaÃ§Ã£o,patinacao
+ZoolÃ³gico,zoologico
+Artesanato,artesanato
+LeilÃ£o,leilao
+Podologia,"podologo,podologia"
+BerÃ§Ã¡rio,bercario
+Maquiagem,Maquiagem
+Retificadora,"Retificadora,retifica"
+Uniforme,uniformes
+"Loja de CaminhÃµes","caminhoes,caminhao"
+Modelismo,"modelismo,aeromodelismo"
+Detetive,Detetive
+PraÃ§a,Pracas
+"Casa de CÃ¢mbio","Casa de Cambio"
+"EstÃºdio de MÃºsica","estudio,musica"
+"Produtos EsotÃ©ricos",esotericos
+Canil,"canil,filhotes"
+"Cesta de CafÃ© da ManhÃ£","cestas,cafe,manha"
+Quadros,"Quadros,molduras"
+"AgÃªncia de Modelos","agencia,modelos,models"
+Aquarismo,"aquarios,aquarismo"
+"GÃ¡s Veicular","gas,veicular,gnv"
+Fantasia,fantasias
+Telemensagens,"Telemensagens,telemensagem"
+Pensionato,"pensionato,pensao"
+AntiquÃ¡rio,Antiguidades
+Cooperativa,Cooperativa
+"Drive In","drive-in,drive,in"
+Gelo,gelo
+"InspeÃ§Ã£o Veicular","inspecao,veicular,pericia,automotiva"
+"Instrumentos Musicais","instrumentos,musicais"
+"Balsa / Pier","marina,pier,nautica"
+"Terminais RodoviÃ¡rios","terminal,estacao,rodoviaria"
+Alternativa,"balada alternativa"
+Australiano,"australiano, australia"
+Chileno,"Chilenos,chile"
+Rotisserie,Rotisserie
+Funilaria,"funilaria,funileiro,oficina"
+Uisqueria,"whisky, whiskeria, uisque, uisqueria"
+Esportivo,"bares de esporte, bares para esporte, esportivos, bares esportivos"
+Relojoaria,"relÃ³gios, relÃ³gio, relogioaria"
+EstÃ¡dio,"EstÃ¡dio, estÃ¡dios"
+"Parque TemÃ¡tico","parque temÃ¡tico, parque de diversÃ£o"
+"Parque AquÃ¡tico","parque aquatico"
+"GinÃ¡sio Poliesportivo","ginÃ¡sios, ginÃ¡sio,"
+"Yoga / Pilates","Yoga & Pilates, ioga, pilate,"
+PeÃ§as,"autopeÃ§as, peÃ§as para carros, peÃ§as para automÃ³veis"
+EscritÃ³rios,"EscritÃ³rio, office"
+"Centro de InformaÃ§Ãµes TurÃ­sticas","informaÃ§Ã£o para turista, centro para turistas"
+Fazenda,
+Jardim,
+"Rio / Lago / Cachoeira",
+Farol,
+Serra,
+Mirante,
+Monumento,
+"Dog Run","cachorros, Ã¡rea para cachorros"
+Latina,"balada latina, salsa, merengue, tango"
+"Centro de Eventos","Centro de Eventos"
+"Centro Empresarial","Centro Empresarial"
+PrÃ©dio,PrÃ©dio
+"Centros Religiosos","Centros Religiosos"
+Mesquita,
+SantuÃ¡rio,
+Sinagoga,
+Templo,
+Transportes,
+"Ruas / Avenidas",
+BicicletÃ¡rio,
+"EstaÃ§Ãµes de Trem",
+"Galeria de Arte",
+"Comidas e Bebidas",
+Cupcakeria,
+ChÃ¡,
+"Base Militar",
+Bombeiros,
+"Frango Frito",
+PlanetÃ¡rio,
+"Museu de Arte",
+"Museu de HistÃ³ria",
+"Museu de CiÃªncias",
+E-Commerce,
+"PrÃ©dio de Artes",
+"PrÃ©dio de ComunicaÃ§Ãµes",
+"PrÃ©dio de Engenharia",
+"PrÃ©dio de HistÃ³ria",
+"PrÃ©dio de MatemÃ¡tica",
+"PrÃ©dio de CiÃªncias",
+"PrÃ©dio de Tecnologia",
+AdministraÃ§Ã£o,
+"Centro Poliesportivo",
+"Centro Recreativo",
+"DormitÃ³rio / RepÃºblica",
+"PrÃ©dio de Direito",
+"PrÃ©dio de Medicina",
+Terminal,
+"Sala de Espera",
+"PortÃ£o de Embarque e Desembarque",
+"Posto de SaÃºde",
+"ClÃ­nica de SaÃºde",
+ConveniÃªncia,
+"Loja de Carros",
+"Loja de Barcos",
+Hamburgueria,
+"Hot Dog","hot dog,hotdog,cachorro quente"
+Sanduicheria,sanduicheria
+"Pronto Socorro","pronto socorro,pronto atendimento,emergencia"
+MÃ©dicos,"medicos,especialidade"
+"AssistÃªncias TÃ©cnicas","AssistÃªncias TÃ©cnicas"
+AtraÃ§Ãµes,
+"Hotel Fazenda",
+Circo,
+Cassino,
+"Estradas / Rodovias",
+Pontes,
+"Distribuidoras de GÃ¡s",
+VinÃ­colas,
+"Yatch Club",
+"Cyber CafÃ©",
+"AssociaÃ§Ãµes / OrganizaÃ§Ãµes",
+ONGs,
+"BabÃ¡s e Babysitters","babas,babysitters,baba"
+"AgÃªncia de Publicidade",
+"Buffet a domicÃ­lio","buffet,domicilio"
+Cervejaria,"cervejaria,cervejas"
+Temakeria,"temaki, temakeria"
+"Restaurante Natural","restaurante, natural, saudavel"
+"ManipulaÃ§Ã£o / Homeopatia",
+AcessÃ³rios,"loja, acessorios"
+"RestauraÃ§Ã£o de Estofados","restauraÃ§Ã£o, estofados, sofÃ¡s"
+"Troca de Ãleo e FluÃ­dos Automotivos","Ã³leo,troca de Ã³leo, oleo, fluÃ­do do freio"
+"Food Truck (Comida de Rua)","comida de trailler, comida de rua, food truck"
+"AcessÃ³rios automotivos","acessÃ³rios para carros, acessÃ³rios para automÃ³veis"
+Bijuterias/Semi-jÃ³ias,"bijuteria, bijoteria, semi joias, biju"
+DemoliÃ§Ã£o,"demoliÃ§Ã£o. demolir"
+"Produtos OrtopÃ©dicos","produtos ortopÃ©dicos, ortopedia"
+Envelopamento,"envelopamento de carros"
+"LocaÃ§Ã£o de Vans / Ãnibus","aluguel de van, aluguel de ÃŽnibus"
+Eletrecista,Eletrecista
+"Professor Particular","professor particular, aulas particulares"
+"DomÃ©sticas / Diaristas","empregada, domÃ©stica, diarista"
+Arquiteto,arquiteto
+Esmalteria,"esmalteria, manicures"
+"Hospital VeterinÃ¡rio","Hospital VeterinÃ¡rio"
